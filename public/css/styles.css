@@ -1,0 +1,201 @@
+.img1{
+  height:540px;
+  width:1340px;
+}
+.text{
+  font-family: 'Poiret One' !important ;
+  font-weight: bold;
+  font-size:100%;
+}
+
+
+.search{
+  padding-left:20% !important;
+  padding:1%;
+}
+.lorem{
+position:absolute;
+padding-top: 10% !important;
+padding:5%;
+font-family: 'Poiret One' !important ;
+font-weight: bold;
+color:black;
+font-size: 100%;
+
+
+}
+
+
+.team-up{
+  margin-right: 2%;
+}
+.topic1{
+  position:absolute;
+  text-align: center !important;
+  font-family: 'Poiret One' !important ;
+  padding-left:25%;
+  padding-top: 1%;
+}
+
+
+
+
+
+
+
+.cursive{
+  font-family: 'Poiret One' !important ;
+}
+
+.synopsis{
+   padding-top: 5%;
+   font-family: 'Poiret One' !important ;
+   font-size: 200% !important;
+   font-weight: bold;
+   text-align:center;
+   padding-bottom:3%;
+}
+.view{
+  padding-top: 3% !important;
+  padding-bottom:3% !important;
+  padding:45%;
+}
+
+.description{
+  padding: 5%;
+  font-family: 'Poiret One' !important ;
+  font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.deymap{
+  padding-left: 30% !important;
+  padding:5%;
+
+}
+.maptext{
+  padding-bottom:1% !important;
+  padding:3%;
+  text-align: center;
+  font-family: 'Poiret One' !important ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.last-section{
+background-color:black;
+
+}
+.l-title{
+padding:15% 15%;
+color:#fff;
+font-family: 'Poiret One' !important ;
+text-align:center;
+}
+.icon1{
+  padding-top:3%;
+  padding-bottom: 20%;
+  padding-left:25%;
+
+}
+.footer-back{
+  font-family: 'Poiret One' !important ;
+  background-color: black;
+  padding:2%;
+
+}
+.footer-link p{
+  color:#fff;
+  margin-top:5%;
+  padding-left: 20%;
+
+}
+.footer-link a{
+
+  display: inline;
+}
+.footer-icons i{
+  color:#fff;
+
+  padding:3%;
+  margin-top: 2%;
+  margin-right: 2%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.foot{
+  background-color: black;
+  padding:3%;
+  margin-top: 5%;
+  color:#fff;
+  font-family: 'Poiret One' !important ;
+}
+.buggati{
+  color:orange;
+}
+.info{
+  display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer2{
+background-color: black;
+  text-align: center;
+  font-family: 'Poiret One' !important ;
+  color:#fff;
+
+}
